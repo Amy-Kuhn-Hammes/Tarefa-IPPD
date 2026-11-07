@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Pinkie Pie",
+    "will": 40,
+    "aim": 75,
+    "mvspd": 13,
+    "hp": 5
+  },
+  {
+    "id": 2,
+    "name": "Apple jack",
+    "will": 40,
+    "aim": 75,
+    "mvspd": 13,
+    "hp": 5
+  },
+  {
+    "id": 3,
+    "name": "Twilight Sparkle3"
+  }
+]
